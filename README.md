@@ -42,7 +42,7 @@
 
 ### Technologies
 
-* I saw you are using _technology_. Why?
+* I saw you are using `<technology>`. Why?
 * Can we choose to work with MacOs, Linux or Windows? Do you impose the OS/tools we work with?
 * What the balance between firefighting and project work?
 
