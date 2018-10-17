@@ -21,7 +21,7 @@
 * Do you use Continuous Integration?
 * How would you describe the company culture?
 * How does the QA team is testing? Manually? Using automated tests?
-* Do you prefere having developers with ideas or only developers who follow instructions?
+* Do you prefer having developers with ideas or only developers who follow instructions?
 
 
 ### Schedule
@@ -31,18 +31,18 @@
 
 ### Deadlines
 
-* **Who decides of the deadlines? How?**
+* **Who decides the deadlines? How?**
 * How do you define a senior developer?
 * How do you do to know if a developer is productive and valuable for the company?
 
 ### Business related questions
 
-* How do you take feedbacks for you clients? 
+* How do you take feedback for you clients? 
 * What the biggest challenges your business face?
 
 ### Technologies
 
-* I saw you are using <technology>. Why?
+* I saw you are using `<technology>`. Why?
 * Can we choose to work with MacOs, Linux or Windows? Do you impose the OS/tools we work with?
 * What the balance between firefighting and project work?
 
@@ -53,6 +53,6 @@
 
 ## After the interview
 
-* Can I visite the offices?
-* Give feedbacks about the interview via Email
-* Ask for feedbacks via Email
+* Can I visit the offices?
+* Give feedback about the interview via Email
+* Ask for feedback via Email
