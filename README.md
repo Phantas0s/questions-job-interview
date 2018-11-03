@@ -1,5 +1,7 @@
 # Questions and tips to find the good company as a web developer
 
+To know more, see [my article on my blog](https://web-techno.net/software-development-job-advices/)
+
 ## Before the interview
 
 * **If there are coding tests, how long do they take?**
