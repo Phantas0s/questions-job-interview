@@ -7,6 +7,14 @@
 
 ## During the interview
 
+### Position
+
+* **What would my immediate responsibilities be?**
+
+### Company
+
+* **How would you describe the company culture?**
+* Do you feel there are any skills currently lacking on the team?
 
 ### Workflow
 
@@ -19,10 +27,7 @@
 * **Do you have a QA team?**
 * **Are developers usually working alone on their own project?**
 * Do you use Continuous Integration?
-* How would you describe the company culture?
 * How does the QA team is testing? Manually? Using automated tests?
-* Do you prefer having developers with ideas or only developers who follow instructions?
-
 
 ### Schedule
 
@@ -35,7 +40,7 @@
 * How do you define a senior developer?
 * How do you do to know if a developer is productive and valuable for the company?
 
-### Business related questions
+### Business related
 
 * How do you take feedback for you clients? 
 * What the biggest challenges your business face?
@@ -54,5 +59,8 @@
 ## After the interview
 
 * Can I visit the offices?
+
+## Feedbacks
+
 * Give feedback about the interview via Email
 * Ask for feedback via Email
