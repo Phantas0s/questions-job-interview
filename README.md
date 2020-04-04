@@ -24,19 +24,22 @@ The questions in bold are the most important, but it can significantly change de
 ### Workflow
 
 * **Are you writing unit tests and/or functional tests for your softwares?**
-* **What do you think about TDD?**
+* What do you think about TDD?
 * **What do you think about pair programming?**
 * **Do you do Pull requests?**
-* **Do you have product managers? Are they product owners as well?**
+* **Do you have product managers? Product owners?**
 * **Do you write documentation?**
 * **Do you have a QA team?**
-* **Are developers usually working alone on their own project?**
-* Do you use Continuous Integration?
+* **Does it happen that a developer work alone on a project?**
+* **Are your teams autonomous?"
+* **Do you do Continuous Deployment (CD)?**
+* **Do you try to break down your tickets to the smallest task possible?**
+* **Do you have a CI pipeline?**
 * How does the QA team is testing? Manually? Using automated tests?
 
 ### Schedule
 
-* **Is home office authorized? Under what conditions?**
+* **Is home office allowed? Under what conditions?**
 * **What about the work hours? Are they flexible?**
 
 ### Deadlines
@@ -52,7 +55,7 @@ The questions in bold are the most important, but it can significantly change de
 
 ### Technologies
 
-* I saw you are using `<insert-random-technology-here>`. Why?
+* **I saw you are using `<insert-random-technology-here>`. Why?**
 * Can we choose to work with MacOs, Linux or Windows? Do you impose the OS/tools we work with?
 * What the balance between firefighting and project work?
 
