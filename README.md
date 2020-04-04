@@ -1,6 +1,8 @@
 # Questions and tips to find the good company as a web developer
 
-To know more, see [this article on my blog](https://thevaluable.dev/find-best-software-developer-job/)
+To know more, see [this article on my blog](https://thevaluable.dev/find-best-software-developer-job/).
+
+The questions in bold are the most important, but it can significantly change depending on the company you have the interview(s) with.
 
 ## Before the interview
 
