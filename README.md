@@ -1,6 +1,6 @@
 # Questions and tips to find the good company as a web developer
 
-To know more, see [my article on my blog](https://web-techno.net/software-development-job-advices/)
+To know more, see [this article on my blog](https://thevaluable.dev/find-best-software-developer-job/)
 
 ## Before the interview
 
@@ -12,7 +12,7 @@ To know more, see [my article on my blog](https://web-techno.net/software-develo
 
 ### Position
 
-* **What would my immediate responsibilities be?**
+* **If you hire me, what would be my immediate responsibilities?**
 
 ### Company
 
@@ -41,7 +41,7 @@ To know more, see [my article on my blog](https://web-techno.net/software-develo
 
 * **Who decides the deadlines? How?**
 * How do you define a senior developer?
-* How do you do to know if a developer is productive and valuable for the company?
+* How do you know if a developer is productive and valuable for the company?
 
 ### Business related
 
@@ -50,7 +50,7 @@ To know more, see [my article on my blog](https://web-techno.net/software-develo
 
 ### Technologies
 
-* I saw you are using `<technology>`. Why?
+* I saw you are using `<insert-random-technology-here>`. Why?
 * Can we choose to work with MacOs, Linux or Windows? Do you impose the OS/tools we work with?
 * What the balance between firefighting and project work?
 
@@ -58,6 +58,7 @@ To know more, see [my article on my blog](https://web-techno.net/software-develo
 
 * What the most interesting thing you worked on?
 * What would you change in this company?
+* **Would you refer this company to a friend?**
 
 ## After the interview
 
