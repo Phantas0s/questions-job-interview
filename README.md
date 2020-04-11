@@ -51,7 +51,6 @@ Some questions don't necessarily reveal what I want to hear, and it's on purpose
 
 * Do you have product managers? Product owners? Are the IT teams autonomous?
 * Do you use SCRUM or Kanban?
-
 * Are you writing unit tests and/or functional tests for your softwares?
 * Do you follow TDD?
 * Do you do pair programming? In what situation?
@@ -61,20 +60,16 @@ Some questions don't necessarily reveal what I want to hear, and it's on purpose
 * Do you do Continuous Deployment (CD)? Do you deploy often in production?
 * Do you prefer having tasks/tickets going on for days or weeks, or do you try to break down tasks/tickets as small as possible?
 * Do you know your MTTR (Mean Time to Restore), the time you need in average to fix problems in production?
-
 * Do you have a QA team?
 * Does the QA team test manually, or using automated tests like acceptance tests?
-
 * Do you do some meeting between developers and managers, when introducing a new functionality on your product(s)?
 * Is it possible to change the requirements? Is it possible to do it without asking the management?
-
 * Do you have agile ceremonies, like daily stand up?
 
 ## Working Place
 
 * Is home office allowed? Under what conditions?
 * Do you allow remote work? Under what conditions?
-
 * What kind of office do you have? Open offices?
 * Is there only developers in one office? Where are the marketing / customer care teams?
 * Can I visit the offices?
