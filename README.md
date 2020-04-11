@@ -4,7 +4,7 @@ This is the questions I might ask during an interview, depending on the informat
 
 This was, at the beginning, an aside to [this article](https://thevaluable.dev/find-best-software-developer-job/), on my blog. It grew as the time went by.
 
-Some questions don't necessarily reveal what I want to hear, and it's on purpose. If you want to know my stand on things, you can still read my [blog](https://thevaluable.dev/). Most of the tine, I focus more on the business / people culture / processes. To me, it's where things can go eerie quickly.
+Some questions don't necessarily reveal what I want to hear, and it's on purpose. If you want to know my stand on things, you can still read my [blog](https://thevaluable.dev/). Most of the time, I focus more on the business / people culture / processes. To me, it's where things can go eerie quickly.
 
 ## Position
 
