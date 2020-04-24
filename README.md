@@ -30,6 +30,7 @@ Some questions don't necessarily reveal what I want to hear, and it's on purpose
 
 ## Business
 
+* Why are you hiring?
 * What the vision of the company? Where do you see the company in 5 years?
 * Who's your target market?
 * Where does the funding come from?
@@ -38,7 +39,6 @@ Some questions don't necessarily reveal what I want to hear, and it's on purpose
 * Is there experts in the company who can explain the business to the developers?
 * Can developers ask for precisions about the business easily, and have answers?
 * Is everybody involved in the team, including the managers and the deciders, can communicate easily?
-* Why are you hiring?
 
 ## Company culture
 
@@ -46,6 +46,7 @@ Some questions don't necessarily reveal what I want to hear, and it's on purpose
 * How do you define a senior developer?
 * How do you know if a developer is productive and valuable for the company?
 * What's the balance between firefighting and project work?
+* Did you look at my github account? At my blog? What did you think?
 
 ## Processes
 
