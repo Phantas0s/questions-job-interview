@@ -69,7 +69,7 @@ Some questions don't necessarily reveal what I want to hear, and it's on purpose
 
 ## Working Place
 
-* Is home office allowed? Under what conditions?
+* Is home office allowed? Under what conditions? (Important for COVID19!)
 * Do you allow remote work? Under what conditions?
 * What kind of office do you have? Open offices?
 * Is there only developers in one office? Where are the marketing / customer care teams?
