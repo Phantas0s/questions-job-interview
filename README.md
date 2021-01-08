@@ -63,7 +63,7 @@ Some questions don't necessarily reveal what I want to hear, and it's on purpose
 * Do you know your MTTR (Mean Time to Restore), the time you need in average to fix problems in production?
 * Do you have a QA team?
 * Does the QA team test manually, or using automated tests like acceptance tests?
-* Do you do some meeting between developers and managers, when introducing a new functionality on your product(s)?
+* Have you meetings between developers and managers, when introducing a new functionality?
 * Is it possible to change the requirements? Is it possible to do it without asking the management?
 * Do you have agile ceremonies, like daily stand up?
 
