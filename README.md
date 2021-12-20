@@ -12,66 +12,105 @@ Some questions don't necessarily reveal what I want to hear, and it's on purpose
 
 ## People
 
-* How many teams do you have? How big are they?
-* What do you expect from your developers? Following what the managers tell them? Bringing business value, not only coding?
-* Do you think that soft skills, like good communication, good time management, and good adaptability is more important than technical skills?
-* What do you do to keep your employees?
-* Do you think diversity matters?
-* Do you allocate resource for employee training?
-* Are responsibilities shared among the members of a team?
-* Is blaming a usual practice in the company?
-* Do you feel there are any skills currently lacking on the team?
+### Company Culture
+
+* How would you describe the company culture?
+* How do you know if a developer is productive and valuable for the company?
+* What's the balance between firefighting and project work?
+* Do you think that soft skills (like communication, time management, or being able to adapt) are more important than technical skills?
+* What do you do avoid developer turnover?
+* Do you think diversity matters in your teams?
+* How do you do to have diversity in your team?
+
+### Control & Micro Management
+
 * Is every developer allowed to deploy in production?
-* Does it happen that a developer work alone on a project?
-* How do you share knowledge in the team?
-* Do you have any established feedback process (1-to-1) between managers and developers? Between the developers themselves? Between the teams?
+* How to you understand code ownership?
 * Is there any performance review?
-* Do you think a "healthy" amount of pressure on developers is necessary?
+
+### Training 
+
+* Do you allocate resources for employee training?
+
+### Feedback
+
+* Do you have any established feedback process (1-to-1) between managers and developers? 
+    * Between the developers themselves? 
+    * Between the teams?
+
+## Technologies
+
+* What's the tech stack of your codebase?
+* What do you use on the infrastructure level?
+* Why do you use `<insert-the-technology-they use>`?
+* Can developers choose their development environments (OS, computer, IDE)?
 
 ## Business
 
-* What the vision of the company? Where do you see the company in 5 years?
-* Who's your target market?
-* Where does the funding come from?
-* How do you get feedback from you users?
-* What the biggest challenges your business is facing?
-* Is there experts in the company who can explain the business to the developers?
-* Can developers ask for precisions about the business easily, and have answers?
-* Is everybody involved in the team, including the managers and the deciders, can communicate easily?
 * Why are you hiring?
+* What the vision of the company?
+* How will the company looks like in 5 years? 
+* Do you try to reach a precise target market?
+* How do you get feedback from you users?
+* What are the biggest challenges your business is facing?
+* Is there domain experts who can explain some aspect of the business to the developers?
 
-## Company culture
+## Teams
 
-* How would you describe the company culture?
-* How do you define a senior developer?
-* How do you know if a developer is productive and valuable for the company?
-* What's the balance between firefighting and project work?
+* How many developer teams do you have?
+* How may developers do you have in each team?
+* Do you have product managers? Product owners?
+* Are the developer teams autonomous?
+* Do you have cross-functional teams?
+* Are developers usually working alone on their projects?
+* How developers share knowledge in the team?
 
 ## Processes
 
-* Do you have product managers? Product owners? Are the IT teams autonomous?
-* Do you use SCRUM or Kanban?
-* Are you writing unit tests and/or functional tests for your softwares?
-* Do you follow TDD?
-* Do you do pair programming? In what situation?
-* Do you do code review?
-* Do you write documentation? Is it up-to-date?
+### Agile
+
+* Do you use SCRUM? Can you describe the process?
+* Do you use Kanban? 
+* What do you think about pair programming? Is it a common practice in the company?
+* What do you think about code review? Is it a common practice in the company?
+
+### Tests 
+
+* Are you writing unit tests / functional tests / integration tests ... ?
+* What do you think about TDD? Is it a common practice in the company?
+
+### Documentation
+
+* What is good documentation for you? 
+* Are the codebases well documented?
+* Are the functionalities in the applications you're building well documented?
+
+### CI / CD
+
 * Do you have a CI pipeline?
-* Do you do Continuous Deployment (CD)? Do you deploy often in production?
-* Do you prefer having tasks/tickets going on for days or weeks, or do you try to break down tasks/tickets as small as possible?
-* Do you know your MTTR (Mean Time to Restore), the time you need in average to fix problems in production?
+* Do you do Continuous Deployment (CD)?
+* How often do you deploy in production?
+* What do you prefer: small tickets you directly deploy in production when they're done, or bigger tickets?
+
+### Requirements
+
+* Who is writing the requirements for new functionalities?
+* Do you have kickup meetings with domain experts, managers, and developers, when you want to add a new functionality?
+* Is it possible, for developers, to change the requirements? 
+
+## Quality
+
+* Are you aware of your application's MTTR (Mean Time to Restore), the time you need in average to fix problems in production?
 * Do you have a QA team?
-* Does the QA team test manually, or using automated tests like acceptance tests?
-* Do you do some meeting between developers and managers, when introducing a new functionality on your product(s)?
-* Is it possible to change the requirements? Is it possible to do it without asking the management?
+* Does the QA team test manually, or do they run automated tests?
 * Do you have agile ceremonies, like daily stand up?
 
 ## Working Place
 
-* Is home office allowed? Under what conditions?
-* Do you allow remote work? Under what conditions?
-* What kind of office do you have? Open offices?
-* Is there only developers in one office? Where are the marketing / customer care teams?
+* Do you allow home office?
+* Do you allow remote work?
+* Do you work in an open office?
+* Are developers isolated or everybody in the same offices?
 * Can I visit the offices?
 
 ## Schedule 
@@ -80,15 +119,17 @@ Some questions don't necessarily reveal what I want to hear, and it's on purpose
 
 ## Deadlines
 
-* Who decides the deadlines? How?
+* Who decides the of deadlines? How?
 * Are estimations considered as hard deadlines?
-* Are the deadlines flexible? Can we change the scope if the deadlines are too short?
+* Is it possible to change the scope of the tasks if it's clear that the deadlines are too short?
+* Do you think a "healthy" amount of pressure on developers is necessary for them to do their best work?
 
-## Technologies
+## Legacy Systems and Complexity
 
-* What's the technical stack used in the company?
-* I saw you're using `<insert-random-technology-here>`. Why?
-* Do you enforce the development environment, like OS or IDE?
+* Do you consider part of your codebase as legacy? Why?
+* Do you have some practices or processes to avoid technical debt?
+* Do the management knows the cost of complexity in the codebase?
+* How do you reduce the entropy in your codebase?
 
 ## Holidays
 
