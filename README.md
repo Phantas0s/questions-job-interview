@@ -1,6 +1,6 @@
 # Questions To Ask During An Interview As a Developer
 
-This is the questions I might ask during an interview, depending on the information I already have, the company, and everything else. I won't ask every single question, and you should not either. Life is too short.
+These are the questions I might ask during an interview, depending on the information I already have, the company, and everything else. I won't ask every single question, and neither should you. Life is too short.
 
 This was, at the beginning, an aside to [this article](https://thevaluable.dev/find-best-software-developer-job/), on my blog. It grew as the time went by.
 
@@ -20,13 +20,13 @@ Some questions don't necessarily reveal what I want to hear, and it's on purpose
 * Do you think that soft skills (like communication, time management, or being able to adapt) are more important than technical skills?
 * What do you do avoid developer turnover?
 * Do you think diversity matters in your teams?
-* How do you do to have diversity in your team?
+* How do you ensure diversity in your team?
 
 ### Control & Micro Management
 
 * Is every developer allowed to deploy in production?
-* How to you understand code ownership?
-* Is there any performance review?
+* How do you understand code ownership?
+* Are there any performance reviews?
 
 ### Training 
 
@@ -48,12 +48,12 @@ Some questions don't necessarily reveal what I want to hear, and it's on purpose
 ## Business
 
 * Why are you hiring?
-* What the vision of the company?
-* How will the company looks like in 5 years? 
-* Do you try to reach a precise target market?
+* What is the vision of the company?
+* How will the company look like in 5 years? 
+* Do you focus on a percise target demographic?
 * How do you get feedback from you users?
 * What are the biggest challenges your business is facing?
-* Is there domain experts who can explain some aspect of the business to the developers?
+* Are there domain experts who can explain some aspect of the business to the developers?
 
 ## Teams
 
@@ -63,7 +63,7 @@ Some questions don't necessarily reveal what I want to hear, and it's on purpose
 * Are the developer teams autonomous?
 * Do you have cross-functional teams?
 * Are developers usually working alone on their projects?
-* How developers share knowledge in the team?
+* How do developers share knowledge in the team?
 
 ## Processes
 
@@ -81,9 +81,9 @@ Some questions don't necessarily reveal what I want to hear, and it's on purpose
 
 ### Documentation
 
-* What is good documentation for you? 
+* What does good documentation mean to you? 
 * Are the codebases well documented?
-* Are the functionalities in the applications you're building well documented?
+* Are the features in the applications you're building well documented?
 
 ### CI / CD
 
@@ -94,13 +94,13 @@ Some questions don't necessarily reveal what I want to hear, and it's on purpose
 
 ### Requirements
 
-* Who is writing the requirements for new functionalities?
+* Who is writing the requirements for new features?
 * Do you have kickup meetings with domain experts, managers, and developers, when you want to add a new functionality?
 * Is it possible, for developers, to change the requirements? 
 
 ## Quality
 
-* Are you aware of your application's MTTR (Mean Time to Restore), the time you need in average to fix problems in production?
+* Are you aware of your application's MTTR (Mean Time to Restore), the time you need on average to fix problems in production?
 * Do you have a QA team?
 * Does the QA team test manually, or do they run automated tests?
 * Do you have agile ceremonies, like daily stand up?
@@ -110,7 +110,7 @@ Some questions don't necessarily reveal what I want to hear, and it's on purpose
 * Do you allow home office?
 * Do you allow remote work?
 * Do you work in an open office?
-* Are developers isolated or everybody in the same offices?
+* Are developers isolated or is everybody in the same offices?
 * Can I visit the offices?
 
 ## Schedule 
@@ -119,7 +119,7 @@ Some questions don't necessarily reveal what I want to hear, and it's on purpose
 
 ## Deadlines
 
-* Who decides the of deadlines? How?
+* Who schedules the deadlines? How?
 * Are estimations considered as hard deadlines?
 * Is it possible to change the scope of the tasks if it's clear that the deadlines are too short?
 * Do you think a "healthy" amount of pressure on developers is necessary for them to do their best work?
@@ -128,24 +128,24 @@ Some questions don't necessarily reveal what I want to hear, and it's on purpose
 
 * Do you consider part of your codebase as legacy? Why?
 * Do you have some practices or processes to avoid technical debt?
-* Do the management knows the cost of complexity in the codebase?
+* Does the management know the cost of complexity in the codebase?
 * How do you reduce the entropy in your codebase?
 
 ## Holidays
 
-* How many days of holidays do we have?
+* How many days of vacation do we have?
 * Is it possible to have unpaid sabbatical? (months)
 
 ## Trial Day
 
-* Can I do a payed trial day to know better each other?
+* Can I do a payed trial day to get to know each other better?
 
 ## To ask to the IT team If Trial Day
 
 * Would you refer this company to a friend?
 * What would you change in this company?
 * What the most interesting things you've worked on here?
-* Are deployments stressful? Why, in your opinion?
+* Are deployments stressful? Why?
 * Why do you stay in this company?
 
 # Sources
